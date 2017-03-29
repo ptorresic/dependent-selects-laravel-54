@@ -1,6 +1,10 @@
 #Dependent Selects (Drop-downs)
 A sample of dependent selects (drop-downs) implementing Laravel 5.4. All CRUD actions.
 
+<p align="center">
+<a href="http://dependent-selects-l54.intercentrica.com/dependent-selects.jpg" alt="Dependent Selects"></a>
+</p>
+
 Demo: [www.dependent-selects-l54.intercentrica.com](http://dependent-selects-l54.intercentrica.com)
 
 - Download
